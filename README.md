@@ -1,2 +1,2 @@
 # basic-counter
-# Just a basoc counter using basic javascript
+# Just a basic counter using basic javascript
